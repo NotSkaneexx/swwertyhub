@@ -1,1 +1,1 @@
-я поменял скрипт лол
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NotSkaneexx/whitelist/refs/heads/main/whitelist", true))()
